@@ -7,23 +7,17 @@
 Клонируйте репозиторий и откройте в Android Studio. Для успешной компиляции необходимо добавить следующие файлы:
 - keystore.properties со следующим содержимым:
 
-  keyAlias=
-  
-  keyPassword=
-  
-  storeFile=
-  
-  storePassword=
-  
-  dropboxApiKey=
-  
-  mapsApiKey=
-  
-  fabricApiKey=
-  
-  inAppLicenseKey=
-  
+```
+  keyAlias=  
+  keyPassword=  
+  storeFile=  
+  storePassword=  
+  dropboxApiKey=  
+  mapsApiKey=  
+  fabricApiKey=  
+  inAppLicenseKey=  
   inAppLicenseSalt=
+```
   
 - app\google-services.json
 
